@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="LSiversSprint0.Airplane">
+    <Position X="0.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Airplane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSiversSprint0.AerialVehicle">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAIEAAIAAAAEAgAAIAAAAAAAAAEAABAAAQAAIAAA=</HashCode>
+      <FileName>AerialVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSiversSprint0.ToyPlane">
+    <Position X="0.75" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAIAAAAAAAIEAAAgAAAAAAAAAAAAAACAEAAAAAAA=</HashCode>
+      <FileName>ToyPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSiversSprint0.Engine">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAAAAAAAAAABAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

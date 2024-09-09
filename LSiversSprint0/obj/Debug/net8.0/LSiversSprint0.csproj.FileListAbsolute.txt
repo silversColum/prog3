@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\bin\Debug\net8.0\LSiversSprint0.exe
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\bin\Debug\net8.0\LSiversSprint0.deps.json
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\bin\Debug\net8.0\LSiversSprint0.runtimeconfig.json
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\bin\Debug\net8.0\LSiversSprint0.dll
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\bin\Debug\net8.0\LSiversSprint0.pdb
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.AssemblyInfo.cs
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.dll
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\refint\LSiversSprint0.dll
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.pdb
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\LSiversSprint0.genruntimeconfig.cache
+C:\Users\logan\source\repos\sprint0\LSiversSprint0\obj\Debug\net8.0\ref\LSiversSprint0.dll
